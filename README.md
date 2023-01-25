@@ -1,6 +1,6 @@
-Developed by: 
+Developed by: V SANTHOSH
 
-RegisterNumber: 
+RegisterNumber: 22001316
 
 
 AIM: To implement all the flipflops using verilog and validating their functionality using their functional tables
